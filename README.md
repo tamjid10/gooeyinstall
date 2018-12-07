@@ -1,5 +1,5 @@
 # gooeyinstall
-
+how to install Gooey
 
 install :
 
@@ -13,6 +13,6 @@ sudo apt install make gcc libgtk-3-dev libwebkitgtk-dev libwebkitgtk-3.0-dev lib
 
 ## install in python
 <code>
-sudo pip3 install Gooey
+pip3 install Gooey --user
 </code>
 done
